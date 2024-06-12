@@ -3,6 +3,7 @@
 ---
 ![image](https://github.com/glassesholder/chunjae_edu_chatbot_project/assets/150658909/dcfc0e4c-9102-4b39-8f37-f0e1b420980c)
 
+➡️ 최종 결과물은 아래 링크에서 확인하실 수 있습니다!
 https://drive.google.com/drive/folders/1r3QL97GllMOlndJZTqhWDfYT87RLbIa2?usp=sharing
 
 ---
